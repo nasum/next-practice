@@ -1,0 +1,18 @@
+{
+  "name": "next-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/nasum/next-practice.git",
+  "author": "nasum <tomato.wonder.life@gmail.com>",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.2.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
